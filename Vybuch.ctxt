@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Vybuch
+comment0.text=\r\n\ Obr\u00E1zok,\ ktor\u00E9ho\ treba\ p\u00E4\u0165\ k\ jednej\ bombe\r\n\ Predstavuje\ miesto,\ kde\ hr\u00E1\u010D\ strat\u00ED\ \u017Eivot,\ ak\ na\ \u0148om\ stoj\u00ED\r\n
+comment1.params=
+comment1.target=Vybuch()
+comment1.text=\r\n\ Inicializ\u00E1cia\ obr\u00E1zka\r\n
+comment2.params=x\ y
+comment2.target=void\ zmenPolohu(int,\ int)
+comment2.text=\r\n\ Obr\u00E1zok\ zmen\u00ED\ polohu\r\n
+comment3.params=
+comment3.target=void\ ukaz()
+comment3.text=\r\n\ Obr\u00E1zok\ sa\ zobraz\u00ED\r\n
+comment4.params=
+comment4.target=void\ skry()
+comment4.text=\r\n\ Obr\u00E1zok\ sa\ skov\u00E1\r\n
+numComments=5

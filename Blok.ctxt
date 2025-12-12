@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Blok
+comment0.text=\r\n\ Blok\ je\ obr\u00E1zok\ kocky\r\n\ Blok\ m\u00F4\u017Ee\ by\u0165\ zni\u010Dite\u013En\u00FD\ (zBlok)\ alebo\ nezni\u010Dite\u013En\u00FD\ (nBlok)\r\n\ jeZnicitelny\ -\ ak\ ved\u013Ea\ neho\ vybuchne\ bomba\ odstr\u00E1ni\ sa\r\n
+comment1.params=x\ y
+comment1.target=Blok(int,\ int)
+comment1.text=\r\n\ Inicializuje\ a\ zobraz\u00ED\ Blok\ na\ zadanom\ mieste\r\n\ Jeho\ z\u00E1kladn\u00FD\ stav\ je,\ \u017Ee\ je\ nezni\u010Dite\u013En\u00FD\r\n
+comment2.params=
+comment2.target=int\ getX()
+comment2.text=\r\n\ Getter\ pre\ x\ polohu\ Bloku\r\n
+comment3.params=
+comment3.target=int\ getY()
+comment3.text=\r\n\ Getter\ pre\ y\ polohu\ Bloku\r\n
+comment4.params=
+comment4.target=void\ premenNaZnicitelny()
+comment4.text=\r\n\ Premeni\ blok\ na\ zni\u010Dite\u013En\u00FD\ -\ ak\ ved\u013Ea\ neho\ vybuchne\ bomba,\ odstr\u00E1ni\ sa\r\n
+comment5.params=
+comment5.target=void\ znicBlok()
+comment5.text=\r\n\ Odstr\u00E1ni\ blok,\ ak\ je\ blok\ zni\u010Dite\u013En\u00FD\r\n\ Hodnotu\ -69420\ po\u017E\u00EDvam\ v\ triede\ Mapa\ na\ prefiltrovanie\ zni\u010Den\u00FDch\ blokov\ v\ dvojdimenzion\u00E1lnom\ poli\ pre\ hodnotu\ y\ a\ x\ blokov\ mapy\r\n
+comment6.params=
+comment6.target=boolean\ getZnicitelnost()
+comment6.text=\r\n\ Getter,\ ktor\u00FD\ ozn\u00E1mi\ \u010Di\ je\ blok\ zni\u010Dite\u013En\u00FD\ alebo\ nezni\u010Dite\u013En\u00FD\r\n
+numComments=7

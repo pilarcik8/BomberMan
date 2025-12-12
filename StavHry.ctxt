@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=StavHry
+comment0.text=\r\n\ Enum\ piatich\ mo\u017En\u00FDch\ stavov\ hry\r\n\ VYHRA_HRAC1\ nastane\ vyhr\u00E1\ hr\u00E1\u010D\ 1\r\n\ VYHRA_HRAC2\ nastane\ vyhr\u00E1\ hr\u00E1\u010D\ 2\r\n\ REMIZA\ nastane\ obaja\ hr\u00E1\u010Di\ zomr\u00FA\r\n\ PAUZA\ je\ do\u010Dasn\u00FD\ stav,\ ktor\u00FD\ nastane\ ak\ ke\u010F\ je\ hr\u00E1\ pozastaven\u00E1\r\n\ HRA_POKRACUJE\ je\ za\u010Diato\u010Dn\u00FD\ stav,\ ktor\u00FD\ nast\u00E1va\ ak\ ostatn\u00E9\ stavy\ nie\ s\u00FA\ akt\u00EDvne\r\n
+numComments=1

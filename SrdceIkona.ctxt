@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SrdceIkona
+comment0.text=\r\n\ Ikona\ srdca\ predstavu\ po\u010Det\ \u017Eivotou\ hr\u00E1\u010Da\r\n\ Srdce\ m\u00F4\u017Ene\ by\u0165\ pln\u00E9\ (\u017Eivot\ m\u00E1)\ alebo\ pr\u00E1zdne\ (\u017Eivot\ stratil)\r\n
+comment1.params=vyska
+comment1.target=SrdceIkona(int)
+comment1.text=\r\n\ Inicializ\u00E1cia\ 3\ obr\u00E1zkov\ srdca\ (hr\u00E1\u010D\ m\u00E1\ 3\ \u017Eivoty)\r\n
+comment2.params=cisloSrdcia
+comment2.target=void\ zmenSrdce(int)
+comment2.text=\r\n\ Vymen\u00ED\ obr\u00E1zok\r\n\ Indikuje\ to,\ \u017Ee\ hr\u00E1\u010D\ stritil\ \u017Eivot\r\n
+comment3.params=cisloSrdcia
+comment3.target=void\ zachovajSrdce(int)
+comment3.text=\r\n\ Vymen\u00ED\ obr\u00E1zok\r\n\ Indikuje\ to,\ \u017Ee\ hr\u00E1\u010D\ z\u00EDskal\ \u017Eivot\r\n
+comment4.params=
+comment4.target=void\ odstranObjektiSrdcia()
+comment4.text=\r\n\ Zmaze\ ikony\r\n
+numComments=5

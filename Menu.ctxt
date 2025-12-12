@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ T\u00FAto\ trietu\ tvor\u00ED\ menu\ pre\ v\u00FDber\ mapy\r\n\ Mapu\ vybereme\ my\u0161ou\ \u013Eav\u00EDm\ tla\u010Didlom\r\n\ V\u017Edy,\ ke\u010F\ hra\ skon\u010D\u00ED\ sa\ vyp\u00ED\u0161e\ kto\ vyhral,\ po\u010Det\ v\u00FDhier\ a\ d\u00E1\ sa\ vybra\u0165\ dal\u0161ia\ mapa\r\n
+comment1.params=
+comment1.target=Menu()
+comment1.text=\r\n\ Inicializ\u00E1cia\ a\ zobrazenie\ menu\r\n
+comment2.params=x\ y
+comment2.target=void\ vyberMapu(int,\ int)
+comment2.text=\r\n\ V\u00FDber\ mapy,\ pod\u013Ea\ polohy\ stiknutia\ \u013Eav\u00FDm\ tla\u010Didlom\ my\u0161i\r\n
+comment3.params=cislo
+comment3.target=void\ vytvorMapu(int)
+comment3.text=\r\n\ Vytvor\u00ED\ zadan\u00FA\ mapu\ (Hra),\ skryje\ menu\r\n
+comment4.params=
+comment4.target=void\ znovozapinacHry()
+comment4.text=\r\n\ Je\ to\ \u010Dasova\u010D\r\n\ Kontroluje\ \u010Di\ hra\ neskon\u010Dila\r\n\ Ak\ \u00E1no\ zapo\u010D\u00EDta\ v\u00FDhru\ v\u00FDhercovi,\ vyp\u00ED\u0161e\ po\u010Det\ v\u00FDhier\ oboch\ hr\u00E1\u010Dov\ a\ zmaze\ objekti\ hry\r\n\ Nech\u00E1\ n\u00E1s\ vybra\u0165\ da\u013E\u0161iu\ mapu\r\n
+numComments=5

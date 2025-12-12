@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Vylepsenia
+comment0.text=\r\n\ Vylep\u0161enie\ -\ prid\u00E1\ hr\u00E1\u010Dovi,\ ktor\u00FD\ st\u00FApi\ na\ obr\u00E1zok\ vylep\u0161enia\r\n\ 2\ druhy\ vylep\u0161en\u00ED\ -\ jedno\ prid\u00E1\ bombu,\ druh\u00E9\ prid\u00E1\ \u017Eivot\r\n
+comment1.params=
+comment1.target=Vylepsenia()
+comment1.text=\r\n\ Inicializ\u00E1cia\ vylep\u0161enia\r\n
+comment2.params=x\ y
+comment2.target=fri.shapesge.Obrazok\ getVylepsenie(int,\ int)
+comment2.text=\r\n\ Pomocuj\ kni\u017Enice\ Random\ m\u00E1me\ \u0161ancu,\ \u017Ee\ padne\ vylep\u0161enie\r\n\ Ak\ padne,\ na\ zadan\u00FA\ polohu\ sa\ uk\u00E1\u017Ee\ obr\u00E1zok\ s\ dan\u00FDm\ vylep\u0161en\u00FDm\r\n
+comment3.params=
+comment3.target=boolean\ getExistenciaVylepsenia()
+comment3.text=\r\n\ Po\u0161le\ inform\u00E1ciu\ \u010Di\ u\u017E\ pad\u013Eo\ vylep\u0161enie\r\n
+comment4.params=
+comment4.target=java.lang.String\ getDruhVylepsenia()
+comment4.text=\r\n\ Po\u0161le\ druh\ vylep\u0161enia\r\n
+comment5.params=
+comment5.target=void\ odstranVylepsenie()
+comment5.text=\r\n\ Odstr\u00E1ni\ vylep\u0161enie\r\n
+numComments=6

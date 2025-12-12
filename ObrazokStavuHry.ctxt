@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ObrazokStavuHry
+comment0.text=\r\n\ Zad\u00E1va\ obr\u00E1zok\ pred\ pred\ hru\ ak\ je\ splnen\u00E1\ niektor\u00E1\ podmienka\r\n
+comment1.params=
+comment1.target=ObrazokStavuHry()
+comment1.text=\r\n\ Inicializ\u00E1cia\ obr\u00E1zku\r\n
+comment2.params=stav
+comment2.target=void\ dajObr(StavHry)
+comment2.text=\r\n\ Uk\u00E1\u017Ee\ obr\u00E1zok\ pod\u013Ea\ enumu\ StavHry\r\n
+numComments=3

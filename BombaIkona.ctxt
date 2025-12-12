@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BombaIkona
+comment0.text=\r\n\ Ikona\ bomby\ predstavuje\ po\u010Det\ z\u00EDskan\u00FDch\ bomb\ hr\u00E1\u010Da\r\n
+comment1.params=vyska
+comment1.target=BombaIkona(int)
+comment1.text=\r\n\ Inicializ\u00E1cia\ troch\ obr\u00E1zkov\ bomb\ (hr\u00E1\u010D\ m\u00E1\ maxim\u00E1lne\ 3\ bombi)\r\n\ Na\ za\u010Diatku\ je\ zobrazen\u00ED\ iba\ prv\u00FD\ obr\u00E1zok\ (hr\u00E1\u010D\ m\u00E1\ na\ za\u010Diatku\ len\ jednu\ bombu)\r\n
+comment2.params=cisloSrdcia
+comment2.target=void\ pridajBombu(int)
+comment2.text=\r\n\ Zobraz\u00ED\ obr\u00E1zok\ bomby\ pod\u013Ea\ inputu\r\n
+comment3.params=
+comment3.target=void\ odstranObjektiBomby()
+comment3.text=\r\n\ Zmaze\ ikony\r\n
+numComments=4

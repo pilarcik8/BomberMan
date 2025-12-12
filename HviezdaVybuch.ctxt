@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HviezdaVybuch
+comment0.text=\r\n\ Z\ obr\u00E1zku\ triedy\ Vybuch\ vytvor\u00ED\ hviezdicu\ (skorej\ plusko)\r\n
+comment1.params=x\ y
+comment1.target=HviezdaVybuch(int,\ int)
+comment1.text=\r\n\ Inicializ\u00E1cia\ Vybuchov\ \r\n\ Stredn\u00FDch\ V\u00FDbuch\ je\ na\ poz\u00EDcii,\ ktor\u00FD\ dostane\r\n\ Ostatn\u00E9\ s\u00FA\ posunut\u00E9\ o\ ve\u013Ekos\u0165\ strany\ vybuchu\r\n
+comment2.params=
+comment2.target=void\ zobrazVybuch()
+comment2.text=\r\n\ Zobraz\u00ED\ hviezdicu\r\n
+comment3.params=
+comment3.target=void\ skryVybuch()
+comment3.text=\r\n\ Skryje\ hviezdicu\r\n
+comment4.params=x\ y
+comment4.target=void\ zmenPolohu(int,\ int)
+comment4.text=\r\n\ Zmen\u00ED\ polohu\ hviezdice\r\n
+numComments=5
